@@ -1,6 +1,14 @@
 # qb-weapons
 Weapon Logic Script For QB-Core
 
+Edited version of qb-weapons with added functionality to adjust damage to players.
+
+Weapons Damage; modifier = 1.0 is default. Go below 1.0 and the damage will be reduced, go above 1.0 and damage will become higher.
+Set disableCriticalHits to true to disable. Set it to false to enable.
+
+# Credits
+QBCore & denzo
+
 # License
 
     QBCore Framework
