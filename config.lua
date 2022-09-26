@@ -11,7 +11,7 @@ Config.DurabilityBlockedWeapons = {
 
 Config.DurabilityMultiplier = {
     	-- Handguns
-	['weapon_pistol'] 				 = 0.05,
+	['weapon_pistol'] 			 = 0.05,
 	['weapon_pistol_mk2'] 			 = 0.05,
 	['weapon_combatpistol'] 		 = 0.05,
 	['weapon_appistol'] 			 = 0.05,
@@ -32,12 +32,12 @@ Config.DurabilityMultiplier = {
 
 	-- Submachine Guns
 	['weapon_microsmg'] 			 = 0.05,
-	['weapon_smg'] 				     = 0.05,
-	['weapon_smg_mk2'] 				 = 0.05,
+	['weapon_smg'] 				 = 0.05,
+	['weapon_smg_mk2'] 			 = 0.05,
 	['weapon_assaultsmg'] 			 = 0.05,
 	['weapon_combatpdw'] 			 = 0.05,
 	['weapon_machinepistol'] 		 = 0.05,
-	['weapon_minismg'] 				 = 0.05,
+	['weapon_minismg'] 			 = 0.05,
 	['weapon_raycarbine'] 			 = 0.05,
 
 	-- Shotguns
@@ -45,7 +45,7 @@ Config.DurabilityMultiplier = {
 	['weapon_sawnoffshotgun'] 		= 0.15,
 	['weapon_assaultshotgun'] 		= 0.15,
 	['weapon_bullpupshotgun'] 		= 0.15,
-	['weapon_musket'] 				= 0.15,
+	['weapon_musket'] 			= 0.15,
 	['weapon_heavyshotgun'] 		= 0.15,
 	['weapon_dbshotgun'] 			= 0.15,
 	['weapon_autoshotgun'] 			= 0.15,
@@ -54,19 +54,19 @@ Config.DurabilityMultiplier = {
 
 	-- Assault Rifles
 	['weapon_assaultrifle'] 		= 0.05,
-	['weapon_assaultrifle_mk2'] 	= 0.05,
+	['weapon_assaultrifle_mk2'] 		= 0.05,
 	['weapon_carbinerifle'] 		= 0.05,
-	['weapon_carbinerifle_mk2'] 	= 0.05,
+	['weapon_carbinerifle_mk2'] 		= 0.05,
 	['weapon_advancedrifle'] 		= 0.05,
 	['weapon_specialcarbine'] 		= 0.05,
 	['weapon_bullpuprifle'] 		= 0.05,
 	['weapon_compactrifle'] 		= 0.05,
-	['weapon_specialcarbine_mk2'] 	= 0.05,
-	['weapon_bullpuprifle_mk2'] 	= 0.05,
+	['weapon_specialcarbine_mk2'] 		= 0.05,
+	['weapon_bullpuprifle_mk2'] 		= 0.05,
 	['weapon_militaryrifle'] 		= 0.05,
 
 	-- Light Machine Guns
-	['weapon_mg'] 				    = 0.15, 
+	['weapon_mg'] 				= 0.15, 
 	['weapon_combatmg'] 			= 0.15,
 	['weapon_gusenberg'] 			= 0.15,
 	['weapon_combatmg_mk2'] 		= 0.15,
@@ -77,34 +77,34 @@ Config.DurabilityMultiplier = {
 	['weapon_marksmanrifle'] 		= 0.15,
 	['weapon_remotesniper'] 		= 0.15,
 	['weapon_heavysniper_mk2'] 		= 0.15,
-	['weapon_marksmanrifle_mk2'] 	= 0.15,
+	['weapon_marksmanrifle_mk2'] 		= 0.15,
 
 	-- Heavy Weapons
-	['weapon_rpg'] 				    = 0.15,
+	['weapon_rpg'] 				= 0.15,
 	['weapon_grenadelauncher'] 		= 0.15,
-	['weapon_grenadelauncher_smoke']= 0.15,
-	['weapon_minigun'] 				= 0.15,
+	['weapon_grenadelauncher_smoke']	= 0.15,
+	['weapon_minigun'] 			= 0.15,
 	['weapon_firework'] 			= 0.15,
-	['weapon_railgun'] 				= 0.15,
+	['weapon_railgun'] 			= 0.15,
 	['weapon_hominglauncher'] 		= 0.15,
 	['weapon_compactlauncher'] 		= 0.15,
 	['weapon_rayminigun'] 			= 0.15,
 
 	-- Throwables
-	['weapon_grenade'] 				= 0.15,
-	['weapon_bzgas'] 				= 0.15,
-	['weapon_molotov'] 				= 0.15,
+	['weapon_grenade'] 			= 0.15,
+	['weapon_bzgas'] 			= 0.15,
+	['weapon_molotov'] 			= 0.15,
 	['weapon_stickybomb'] 			= 0.15,
 	['weapon_proxmine'] 			= 0.15,
 	['weapon_snowball'] 			= 0.15,
 	['weapon_pipebomb'] 			= 0.15,
-	['weapon_ball'] 				= 0.15,
+	['weapon_ball'] 			= 0.15,
 	['weapon_smokegrenade'] 		= 0.15,
-	['weapon_flare'] 				= 0.15,
+	['weapon_flare'] 			= 0.15,
 
 	-- Miscellaneous
 	['weapon_petrolcan'] 			= 0.15,
-	['weapon_fireextinguisher'] 	= 0.15,
+	['weapon_fireextinguisher'] 		= 0.15,
 	['weapon_hazardcan'] 			= 0.15,
 }
 
